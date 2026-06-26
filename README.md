@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Rexy Saragih - Fullstack Engineer // Dev Tools // TypeScript" width="100%" />
+  <a href="https://www.rexy-jms.dev/">
+    <img src="./assets/banner.png" alt="Rexy Saragih - Fullstack Engineer // Dev Tools // TypeScript" width="100%" />
+  </a>
 </p>
 
 <p align="center">
@@ -8,8 +10,6 @@
   <a href="https://www.linkedin.com/in/rexy-jms"><img src="https://img.shields.io/badge/LINKEDIN-3fd0ff?style=for-the-badge&logo=linkedin&logoColor=121212" alt="linkedin" /></a>
   <a href="https://www.instagram.com/rexy.jms"><img src="https://img.shields.io/badge/INSTAGRAM-ffd23f?style=for-the-badge&logo=instagram&logoColor=121212" alt="instagram" /></a>
 </p>
-
----
 
 ```typescript
 class RexySaragih implements FullstackEngineer {
@@ -36,30 +36,65 @@ class RexySaragih implements FullstackEngineer {
 }
 ```
 
----
+<img src="./assets/hdr-built.png" alt="Things I built" width="100%" />
 
-## `// THINGS I'VE BUILT`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://html-pdf-forge.rexy-jms.dev/">
+        <img src="./assets/card-html-pdf-forge.png" alt="html-pdf-forge - HTML to PDF" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://remaid.rexy-jms.dev/">
+        <img src="./assets/card-remaid.png" alt="remaid - diagrams as code" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://voidstrike.rexy-jms.dev/">
+        <img src="./assets/card-voidstrike.png" alt="voidstrike - type-to-slice game" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.npmjs.com/package/@rexymayderio/god-forbid-devtools">
+        <img src="./assets/card-god-forbid-devtools.png" alt="god-forbid-devtools - anti-tamper toolkit" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.npmjs.com/package/id-bank-holidays">
+        <img src="./assets/card-public-holiday-id.png" alt="public-holiday-id - Indonesian bank holidays" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.npmjs.com/package/@rexymayderio/cross-workspace-mcp">
+        <img src="./assets/card-cross-workspace-mcp.png" alt="cross-workspace-mcp - MCP for agents" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-| project | what it does | link |
-| ------- | ------------ | ---- |
-| **[html-pdf-forge](https://github.com/RexySaragih/html-pdf-forge)** | HTML to PDF with no headless browser. templates, watermarks, QR/barcodes, merge and split, wired into one typed call. | [live](https://html-pdf-forge.rexy-jms.dev/) |
-| **[remaid](https://github.com/RexySaragih/remaid)** | animated diagrams as code. type a tiny DSL, watch packets flow. | [live](https://remaid.rexy-jms.dev/) |
-| **[voidstrike](https://github.com/RexySaragih/voidstrike)** | type-to-slice arcade game. test your speed when you're bored. | [live](https://voidstrike.rexy-jms.dev/) |
-| **[god-forbid-devtools](https://github.com/RexySaragih/god-forbid-devtools)** | tree-shakable browser anti-tamper toolkit. drop-in replacement for the archived `devtools-detect`. | [npm](https://www.npmjs.com/package/@rexymayderio/god-forbid-devtools) |
-| **[public-holiday-id](https://github.com/RexySaragih/public-holiday-id)** | zero-dependency lib for Indonesian bank holidays and business-day math, straight from the BI calendar. | [npm](https://www.npmjs.com/package/id-bank-holidays) |
-| **[cross-workspace-mcp](https://github.com/RexySaragih/cross-workspace-mcp)** | lets AI agents read and write across your *other* local project workspaces from the IDE. | [npm](https://www.npmjs.com/package/@rexymayderio/cross-workspace-mcp) |
-
-## `// MCP SERVERS`
-
-i build [Model Context Protocol](https://modelcontextprotocol.io/) servers so agents can reach the tools i actually use:
-
-[**mcp-confluence**](https://github.com/RexySaragih/mcp-confluence) (jira + confluence) · [**mcp-pgsql**](https://github.com/RexySaragih/mcp-pgsql) (postgres) · [**mcp-bitbucket**](https://github.com/RexySaragih/mcp-bitbucket) · [**mcp-bruno**](https://github.com/RexySaragih/mcp-bruno) · [**cross-workspace-mcp**](https://github.com/RexySaragih/cross-workspace-mcp) · [**tomarkdamnit**](https://github.com/RexySaragih/tomarkdamnit)
-
----
-
-## `// WHAT I BUILD WITH`
+<img src="./assets/hdr-mcp.png" alt="MCP servers" width="100%" />
 
 <p>
+  i build <a href="https://modelcontextprotocol.io/">Model Context Protocol</a> servers so agents can reach the tools i actually use:
+</p>
+
+<p align="center">
+  <a href="https://github.com/RexySaragih/mcp-confluence"><img src="https://img.shields.io/badge/mcp--confluence-ffd23f?style=for-the-badge&labelColor=121212&logoColor=121212" alt="mcp-confluence" /></a>
+  <a href="https://github.com/RexySaragih/mcp-pgsql"><img src="https://img.shields.io/badge/mcp--pgsql-3fd0ff?style=for-the-badge&labelColor=121212&logoColor=121212" alt="mcp-pgsql" /></a>
+  <a href="https://github.com/RexySaragih/mcp-bitbucket"><img src="https://img.shields.io/badge/mcp--bitbucket-ff5d8f?style=for-the-badge&labelColor=121212&logoColor=121212" alt="mcp-bitbucket" /></a>
+  <a href="https://github.com/RexySaragih/mcp-bruno"><img src="https://img.shields.io/badge/mcp--bruno-ffd23f?style=for-the-badge&labelColor=121212&logoColor=121212" alt="mcp-bruno" /></a>
+  <a href="https://github.com/RexySaragih/cross-workspace-mcp"><img src="https://img.shields.io/badge/cross--workspace--mcp-3fd0ff?style=for-the-badge&labelColor=121212&logoColor=121212" alt="cross-workspace-mcp" /></a>
+  <a href="https://github.com/RexySaragih/tomarkdamnit"><img src="https://img.shields.io/badge/tomarkdamnit-ff5d8f?style=for-the-badge&labelColor=121212&logoColor=121212" alt="tomarkdamnit" /></a>
+</p>
+
+<img src="./assets/hdr-stack.png" alt="What I build with" width="100%" />
+
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3fd0ff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=ffd23f" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=3fd0ff" alt="React" />
@@ -67,22 +102,13 @@ i build [Model Context Protocol](https://modelcontextprotocol.io/) servers so ag
   <img src="https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=3fd0ff" alt="PostgreSQL" />
 </p>
 
----
-
-## `// GET IN TOUCH`
-
-- **Portfolio** : [rexy-jms.dev](https://www.rexy-jms.dev/)
-- **npm** : [@rexy_mayderio](https://www.npmjs.com/~rexy_mayderio)
-- **LinkedIn** : [in/rexy-jms](https://www.linkedin.com/in/rexy-jms)
-- **Instagram** : [@rexy.jms](https://www.instagram.com/rexy.jms)
-
----
+<img src="./assets/hdr-touch.png" alt="Get in touch" width="100%" />
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RexySaragih&hide_border=true&background=00000000&stroke=ffd23f&ring=ff5d8f&fire=ff5d8f&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ffd23f&sideLabels=c9d1d9&dates=8b949e" />
-    <img src="https://streak-stats.demolab.com/?user=RexySaragih&hide_border=true&background=00000000&stroke=ff5d8f&ring=ff5d8f&fire=ff5d8f&currStreakNum=24292f&sideNums=24292f&currStreakLabel=ff5d8f&sideLabels=24292f&dates=57606a" alt="rexy's contribution streak" />
-  </picture>
+  <a href="https://www.rexy-jms.dev/"><img src="https://img.shields.io/badge/rexy--jms.dev-ffd23f?style=for-the-badge&labelColor=121212&logoColor=121212" alt="portfolio" /></a>
+  <a href="https://www.npmjs.com/~rexy_mayderio"><img src="https://img.shields.io/badge/npm-rexy__mayderio-ff5d8f?style=for-the-badge&labelColor=121212&logoColor=121212" alt="npm" /></a>
+  <a href="https://www.linkedin.com/in/rexy-jms"><img src="https://img.shields.io/badge/linkedin-rexy--jms-3fd0ff?style=for-the-badge&labelColor=121212&logoColor=121212" alt="linkedin" /></a>
+  <a href="https://www.instagram.com/rexy.jms"><img src="https://img.shields.io/badge/instagram-rexy.jms-ffd23f?style=for-the-badge&labelColor=121212&logoColor=121212" alt="instagram" /></a>
 </p>
 
 <p align="center">
