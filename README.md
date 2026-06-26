@@ -80,8 +80,8 @@ i build [Model Context Protocol](https://modelcontextprotocol.io/) servers so ag
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RexySaragih&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffd23f&icon_color=ff5d8f&text_color=c9d1d9" />
-    <img src="https://github-readme-stats.vercel.app/api?username=RexySaragih&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ff5d8f&icon_color=3fd0ff&text_color=24292f" alt="rexy's github stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RexySaragih&hide_border=true&background=00000000&stroke=ffd23f&ring=ff5d8f&fire=ff5d8f&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ffd23f&sideLabels=c9d1d9&dates=8b949e" />
+    <img src="https://streak-stats.demolab.com/?user=RexySaragih&hide_border=true&background=00000000&stroke=ff5d8f&ring=ff5d8f&fire=ff5d8f&currStreakNum=24292f&sideNums=24292f&currStreakLabel=ff5d8f&sideLabels=24292f&dates=57606a" alt="rexy's contribution streak" />
   </picture>
 </p>
 
