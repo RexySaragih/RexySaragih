@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.rexy-jms.dev/">
-    <img src="./assets/banner.png" alt="Rexy Saragih - Fullstack Engineer // Dev Tools // TypeScript" width="100%" />
+    <img src="./assets/banner.png" alt="Rexy Saragih - Fullstack Engineer // Dev Tools // TypeScript" width="640" />
   </a>
 </p>
 
@@ -36,48 +36,48 @@ class RexySaragih implements FullstackEngineer {
 }
 ```
 
-<img src="./assets/hdr-built.png" alt="Things I built" width="100%" />
+<img src="./assets/hdr-built.png" alt="Things I built" width="520" />
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <a href="https://html-pdf-forge.rexy-jms.dev/">
-        <img src="./assets/card-html-pdf-forge.png" alt="html-pdf-forge - HTML to PDF" width="100%" />
+        <img src="./assets/card-html-pdf-forge.png" alt="html-pdf-forge - HTML to PDF" width="300" />
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td valign="top">
       <a href="https://remaid.rexy-jms.dev/">
-        <img src="./assets/card-remaid.png" alt="remaid - diagrams as code" width="100%" />
+        <img src="./assets/card-remaid.png" alt="remaid - diagrams as code" width="300" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <a href="https://voidstrike.rexy-jms.dev/">
-        <img src="./assets/card-voidstrike.png" alt="voidstrike - type-to-slice game" width="100%" />
+        <img src="./assets/card-voidstrike.png" alt="voidstrike - type-to-slice game" width="300" />
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td valign="top">
       <a href="https://www.npmjs.com/package/@rexymayderio/god-forbid-devtools">
-        <img src="./assets/card-god-forbid-devtools.png" alt="god-forbid-devtools - anti-tamper toolkit" width="100%" />
+        <img src="./assets/card-god-forbid-devtools.png" alt="god-forbid-devtools - anti-tamper toolkit" width="300" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <a href="https://www.npmjs.com/package/id-bank-holidays">
-        <img src="./assets/card-public-holiday-id.png" alt="public-holiday-id - Indonesian bank holidays" width="100%" />
+        <img src="./assets/card-public-holiday-id.png" alt="public-holiday-id - Indonesian bank holidays" width="300" />
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td valign="top">
       <a href="https://www.npmjs.com/package/@rexymayderio/cross-workspace-mcp">
-        <img src="./assets/card-cross-workspace-mcp.png" alt="cross-workspace-mcp - MCP for agents" width="100%" />
+        <img src="./assets/card-cross-workspace-mcp.png" alt="cross-workspace-mcp - MCP for agents" width="300" />
       </a>
     </td>
   </tr>
 </table>
 
-<img src="./assets/hdr-mcp.png" alt="MCP servers" width="100%" />
+<img src="./assets/hdr-mcp.png" alt="MCP servers" width="520" />
 
 <p>
   i build <a href="https://modelcontextprotocol.io/">Model Context Protocol</a> servers so agents can reach the tools i actually use:
@@ -92,7 +92,7 @@ class RexySaragih implements FullstackEngineer {
   <a href="https://github.com/RexySaragih/tomarkdamnit"><img src="https://img.shields.io/badge/tomarkdamnit-ff5d8f?style=for-the-badge&labelColor=121212&logoColor=121212" alt="tomarkdamnit" /></a>
 </p>
 
-<img src="./assets/hdr-stack.png" alt="What I build with" width="100%" />
+<img src="./assets/hdr-stack.png" alt="What I build with" width="520" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3fd0ff" alt="TypeScript" />
@@ -102,7 +102,7 @@ class RexySaragih implements FullstackEngineer {
   <img src="https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=3fd0ff" alt="PostgreSQL" />
 </p>
 
-<img src="./assets/hdr-touch.png" alt="Get in touch" width="100%" />
+<img src="./assets/hdr-touch.png" alt="Get in touch" width="520" />
 
 <p align="center">
   <a href="https://www.rexy-jms.dev/"><img src="https://img.shields.io/badge/rexy--jms.dev-ffd23f?style=for-the-badge&labelColor=121212&logoColor=121212" alt="portfolio" /></a>
